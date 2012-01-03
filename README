@@ -1,6 +1,6 @@
 Name
 	nginx-hashdos-patch
-	This is a patch of fixed the #hashDos# bug.
+	This is a patch fixed the #hashDos# bug.
 
 Version
 	This document describes nginx-hashdos-patch v1.0 release on 1/3/2011.
